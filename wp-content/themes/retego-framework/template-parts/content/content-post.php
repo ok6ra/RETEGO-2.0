@@ -1,0 +1,4 @@
+<?php
+/**
+ * Post content placeholder.
+ */

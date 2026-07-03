@@ -1,0 +1,4 @@
+<?php
+/**
+ * Site footer placeholder.
+ */
